@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsylv\\Desktop\\AnimooBot\\AnimooBot\\AnimooBot.csproj",
+      "projectUniqueName": "C:\\Users\\bsylv\\Desktop\\AnimooBot\\AnimooBot.csproj",
       "projectName": "AnimooBot",
-      "projectPath": "C:\\Users\\bsylv\\Desktop\\AnimooBot\\AnimooBot\\AnimooBot.csproj",
+      "projectPath": "C:\\Users\\bsylv\\Desktop\\AnimooBot\\AnimooBot.csproj",
       "packagesPath": "C:\\Users\\bsylv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsylv\\Desktop\\AnimooBot\\AnimooBot\\obj\\",
+      "outputPath": "C:\\Users\\bsylv\\Desktop\\AnimooBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
