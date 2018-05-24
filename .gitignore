@@ -260,4 +260,3 @@ paket-files/
 __pycache__/
 *.pyc
 
-*/AnimooBot/bin/Debug/netcoreapp2.0/config.json
